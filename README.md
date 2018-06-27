@@ -13,9 +13,11 @@ Native desktop notifications for Atom with [node-notifier](https://github.com/mi
 -   [x] Arch Linux (GNOME 3.16)
 -   [x] Arch Linux (KDE Plasma 5)
 -   [x] Ubuntu 15.04 (Unity)
+-   [x] Windows 10
 -   [x] Windows 8
 -   [x] Windows 7
 -   [x] Windows XP
+-   [x] MacOS 10.12 - 10.13
 
 ## Options
 
